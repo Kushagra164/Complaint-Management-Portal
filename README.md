@@ -15,7 +15,7 @@
   <li> GoogleOAuth - Open Authorization from Google </li>
   <li> Bootstrap - CSS framework for responsive frontend </li>
 </ul>
-**Complain ![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.001.jpeg)![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.002.png)![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.003.png)![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.004.png)Management Portal** 
+**Complain Management Portal** 
 
 **Course Instructor:                                                                                                          Submitted By: Dr.Padmalochan Bera                                                           Akshat Rampuria    (20CS02013)                                                                                                           Amit Kumar Pandit (20CS01035)                                                                                                           Kushagra Khare      (20CS02004)**
 
