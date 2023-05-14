@@ -17,9 +17,8 @@
 </ul>
 **Complain Management Portal** 
 
-**Course Instructor:                                                                                                          Submitted By: Dr.Padmalochan Bera                                                           Akshat Rampuria    (20CS02013)                                                                                                           Amit Kumar Pandit (20CS01035)                                                                                                           Kushagra Khare      (20CS02004)**
 
-Introduction ![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.005.jpeg)![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.006.png)
+**Introduction !**
 
 **Presentation Overview**
 
@@ -33,7 +32,7 @@ Multiple  customers  can  log  their complaints  and  upvote  other complaints.
 
 **Key Takeaways**
 
-On a very basic level, complain management ![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.007.png) portal  includes the  management  of  client complains for an organization. It  can  also  function  as  a feedback  mechanism  for  an admin.
+On a very basic level, complain management portal  includes the  management  of  client complains for an organization. It  can  also  function  as  a feedback  mechanism  for  an admin.
 
 We  maintain  different  tables for  users,  posts,  upvotes, downvotes,  comments  in  our database. 
 
