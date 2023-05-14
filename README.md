@@ -1,10 +1,5 @@
 <h1 align = "center"> Complaint Management Portal </h1>
 
-<h2 id="content"> 📝 Contents </h2>
-
-[Technologies Used](#tech)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="tech"> ⚡ Technologies Used </h2>
 <ul>
@@ -17,8 +12,7 @@
 </ul>
 
 
-**Introduction !**
-
+****Introduction !****
 
 
 The  website  is  a  platform  to  simplify complaint management.
@@ -41,7 +35,7 @@ Here clients can lodge a complaint with description and image details which  the
 
 **Understanding Complaint Management Functionalities** 
 
-![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.010.jpeg)![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.011.png)
+![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.010.jpeg)
 
 **Screenshots of how entries are stored in DB** 
 
@@ -56,8 +50,6 @@ Here clients can lodge a complaint with description and image details which  the
 ![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.015.jpeg)
 
 **Future Developments** 
-
-![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.005.jpeg)![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.006.png)
 
 Integrate  AI  and  machine  learning  algorithms  to automate the complaint handling  process, such as categorizing  complaints,  suggesting  possible resolutions,  and  assigning  them  to  the  relevant teams.
 Implement sentiment analysis to better understand the  emotional  context  of  complaints  and  provide personalized responses to customers.
