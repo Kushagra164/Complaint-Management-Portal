@@ -12,7 +12,7 @@
 </ul>
 
 
-****Introduction !****
+**Introduction !**
 
 
 The  website  is  a  platform  to  simplify complaint management.
@@ -20,7 +20,7 @@ An integrated communication system enables  direct  communication  with customer
 Timely  and  accurate  responses  to complaints  lead  to  faster  resolution times.
 Multiple  customers  can  log  their complaints  and  upvote  other complaints.
 
-**Key Takeaways**
+**Key TakeAways**
 
 On a very basic level, complain management portal  includes the  management  of  client complains for an organization. It  can  also  function  as  a feedback  mechanism  for  an admin.
 We  maintain  different  tables for  users,  posts,  upvotes, downvotes,  comments  in  our database. 
@@ -46,6 +46,8 @@ Here clients can lodge a complaint with description and image details which  the
 **Screenshots of how entries are stored in DB**
 
 ![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.014.jpeg)
+
+**Entity-Relationship Model of the Database**
 
 ![](Aspose.Words.d90a76cb-789d-4348-b54c-85e2f9b26f8e.015.jpeg)
 
